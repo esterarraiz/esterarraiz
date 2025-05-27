@@ -41,7 +41,7 @@
 ### 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esterarraiz&show_icons=true&theme=default" alt="estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterarraiz&layout=compact" alt="linguagens mais usadas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esterarraiz" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esterarraiz&show_icons=true&theme=dark" alt="estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterarraiz&layout=compact&theme=dark" alt="linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esterarraiz&theme=dark" alt="GitHub Streak" />
 </p>
