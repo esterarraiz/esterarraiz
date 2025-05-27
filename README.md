@@ -25,6 +25,7 @@
 
 ### 🐍 GitHub Activity Snake
 
-![Snake animation](https://raw.githubusercontent.com/esterarraiz/esterarraiz/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/esterarraiz/esterarraiz/blob/output/github-contribution-grid-snake.svg)
+
 
 
