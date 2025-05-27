@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Ester Arraiz</h1>
+<h1 align="center">Olá 👋, eu sou Ester Arraiz</h1>
 <h3 align="center">🚀 Aprendendo, desenvolvendo e compartilhando conhecimento</h3>
 
 - 🔭 Atualmente estou trabalhando em [Beto Amparo](https://github.com/dallylademoraes/beto-amparo)
@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esterarraiz&show_icons=true&locale=en" alt="esterarraiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esterarraiz&" alt="esterarraiz" /></p>
+
+![Snake animation](https://github.com/esterarraiz/esterarraiz/blob/output/github-contribution-grid-snake.svg)
+
