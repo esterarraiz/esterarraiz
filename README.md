@@ -23,9 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esterarraiz&" alt="esterarraiz" /></p>
 
-### 🐍 GitHub Activity Snake
-
-![Snake animation](https://github.com/esterarraiz/esterarraiz/blob/output/github-contribution-grid-snake.svg)
-
 
 
