@@ -65,7 +65,7 @@ Sou uma estudante de Ciência da Computação apaixonada por segurança da infor
   <img src="https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
   <!-- Medusa -->
-  <img src="https://img.shields.io/badge/Medusa-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medusa-333333?style=for-the-badge&logo=gnometerminal&logoColor=white" />
 
   <!-- Metasploit -->
   <img src="https://img.shields.io/badge/Metasploit-2C2F33?style=for-the-badge&logo=metasploit&logoColor=blue" />
@@ -75,9 +75,6 @@ Sou uma estudante de Ciência da Computação apaixonada por segurança da infor
 
   <!-- Kali Linux -->
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" />
-
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
   <!-- Windows -->
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
