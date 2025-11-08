@@ -33,7 +33,7 @@ Sou uma estudante de Ciência da Computação apaixonada por segurança da infor
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias de Segurança
+### 🛠️ Ferramentas e Tecnologias
 
 <p align="left">
 
